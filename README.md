@@ -28,22 +28,6 @@ An AI-powered web application that allows users to upload PDF documents and inst
 
 ---
 
-# 📸 <img width="1917" height="1036" alt="image" src="https://github.com/user-attachments/assets/8874b1a7-445c-4c61-8fe2-00037c7925aa" />
-
-
-> Add screenshots of your application here.
-
-Example:
-
-```
-Home Page
-Summary Generation
-Keyword Extraction
-```
-
-*(You can later upload screenshots inside a `screenshots` folder and link them here.)*
-
----
 
 # 🛠 Tech Stack
 
@@ -129,12 +113,6 @@ Install dependencies
 
 ```bash
 pip install -r requirements.txt
-```
-
-Create a `.env` file
-
-```env
-GEMINI_API_KEY=YOUR_API_KEY
 ```
 
 Run backend
@@ -246,7 +224,7 @@ https://github.com/Anubhav2703
 
 LinkedIn
 
-*(Add your LinkedIn profile here)*
+(https://www.linkedin.com/in/anubhav-pratap-singh-571b61297/)
 
 ---
 
