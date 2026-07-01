@@ -28,7 +28,8 @@ An AI-powered web application that allows users to upload PDF documents and inst
 
 ---
 
-# 📸 Project Preview
+# 📸 <img width="1917" height="1036" alt="image" src="https://github.com/user-attachments/assets/8874b1a7-445c-4c61-8fe2-00037c7925aa" />
+
 
 > Add screenshots of your application here.
 
