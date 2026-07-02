@@ -25,7 +25,7 @@ An AI-powered web application that enables users to upload PDF documents and ins
 
 # 🖼️ Screenshots
 
-> Replace these placeholders with your project screenshots.
+
 
 ### 🏠 Home Page
 
@@ -37,7 +37,7 @@ An AI-powered web application that enables users to upload PDF documents and ins
 
 ### 🔑 Keywords
 
-![Keywords](screenshots/keywords.png)
+![Keywords](screenshots/Keywords.png)
 
 ### 📝 AI Quiz
 
@@ -45,7 +45,7 @@ An AI-powered web application that enables users to upload PDF documents and ins
 
 ### 📊 Quiz Result
 
-![Score](screenshots/score.png)
+![Score](screenshots/Score.png)
 
 ---
 
