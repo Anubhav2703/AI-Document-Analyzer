@@ -135,12 +135,6 @@ Install the dependencies
 pip install -r requirements.txt
 ```
 
-Create a `.env` file inside the **backend** folder and add your Gemini API key.
-
-```env
-GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-```
-
 Run the backend server
 
 ```bash
